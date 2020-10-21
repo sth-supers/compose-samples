@@ -11,7 +11,7 @@ For more information, please [read the documentation](https://developer.android.
 To try out these sample apps, you need to use the latest Canary version of Android Studio 4.2.
 You can clone this repository or import the
 project from Android Studio following the steps
-[here](https://developer.android.com/jetpack/compose/setup#sample)
+[here](https://developer.android.com/jetpack/compose/setup#sample).
 
 🧬 Samples
 ------------
